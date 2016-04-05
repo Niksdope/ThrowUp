@@ -1,0 +1,16 @@
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\bin\x64\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\priconfig.xml
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\priconfig.xml.intermediate
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\layout.resfiles
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\layout.resfiles.intermediate
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\resources.resfiles
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\resources.resfiles.intermediate
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\pri.resfiles
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\pri.resfiles.intermediate
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\qualifiers.txt
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Niks\Documents\Basketball\UWP\Assembly-CSharp-firstpass\obj\x64\Debug\x64\Debug\MultipleQualifiersPerDimensionFound.txt

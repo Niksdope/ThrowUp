@@ -1,0 +1,198 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R4 Graphics (ID=0x130b)
+    Vendor:   ATI
+    VRAM:     1378 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.234 seconds
+Platform assembly: C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Niks\Documents\Basketball\BasketballGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.845241 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.918087 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.407100 ms (FindLiveObjects: 0.042901 ms CreateObjectMapping: 0.021917 ms MarkObjects: 0.325493 ms  DeleteObjects: 0.015388 ms)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 1.159512 Angle: 88.06941
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Gool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 2.64557 Angle: 78.35824
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 1.016793 Angle: 80.41705
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Gool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 0.5415789 Angle: 80.3112
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 1.172164 Angle: 88.72697
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Gool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 0.7107992 Angle: 81.57303
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Gool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 1.214363 Angle: 85.69553
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Gool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 0.5752791 Angle: 84.80556
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Gool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 2.736358 Angle: 81.79278
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Gool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Ball clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Distance: 2.313462 Angle: 58.81501
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Throw ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.876687 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.467255 ms (FindLiveObjects: 0.031243 ms CreateObjectMapping: 0.026580 ms MarkObjects: 0.366063 ms  DeleteObjects: 0.038238 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.944304 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.353473 ms (FindLiveObjects: 0.031709 ms CreateObjectMapping: 0.024248 ms MarkObjects: 0.283524 ms  DeleteObjects: 0.012590 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.774096 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.506893 ms (FindLiveObjects: 0.035906 ms CreateObjectMapping: 0.030311 ms MarkObjects: 0.382385 ms  DeleteObjects: 0.056891 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4df4 -> priority: 1 
